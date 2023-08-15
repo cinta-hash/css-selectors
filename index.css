@@ -38,3 +38,8 @@ ul li{
     margin-bottom: 20px;
     color: blue;
 }
+.container{
+    background-color: blueviolet;
+    width: 70%;
+    margin: 0 auto;
+}
